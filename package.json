@@ -25,7 +25,7 @@
   "homepage": "https://github.com/motomux/winston-slack-webhook#readme",
   "dependencies": {},
   "peerDependencies": {
-    "winston": "3.x.x"
+    "winston": "3.x"
   },
   "engines": {
     "node": ">= 4.x.x"
